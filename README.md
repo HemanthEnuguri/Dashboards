@@ -29,3 +29,11 @@ In the Netflix dashboard, I showcased the categorization of movies by title, gen
 3.FINANCIAL TIMES FOR ACC UNIVERSITIES:
 I also developed another dashboard centered around teaching scores for a university, organized by year. This dashboard provides a comprehensive view of the teaching performance over different academic years, allowing for effective analysis and insights into the trends and patterns associated with the teaching scores.
 ![image](https://github.com/HemanthEnuguri/Dashboards/assets/127071265/82032117-3ab5-469e-80d1-b891fd265beb)
+
+
+
+
+4. FLIGHT PRICE PREDICTION:
+Ever wondered when to book a flight so that you can save few bucks ? This dashboard is the answer. It gives complete picture of flight details, approximate no of days to purchase a flight ticket to get best deal and period of time (like morning, afternoon, evening etc..),analysis based on no of stops and airlines.
+![image](https://github.com/HemanthEnuguri/Dashboards/assets/127071265/1aaaf9ef-5e95-408b-8e9e-5565b17f4d28)
+
