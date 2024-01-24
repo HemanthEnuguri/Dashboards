@@ -17,4 +17,5 @@ In the Netflix dashboard, I showcased the categorization of movies by title, gen
 ![image](https://github.com/HemanthEnuguri/Dashboards/assets/127071265/9f60fe39-65ce-4970-af6d-6c35f6cec9b8)
 
 3.FINANCIAL TIMES FOR ACC UNIVERSITIES:
+I also developed another dashboard centered around teaching scores for a university, organized by year. This dashboard provides a comprehensive view of the teaching performance over different academic years, allowing for effective analysis and insights into the trends and patterns associated with the teaching scores.
 ![image](https://github.com/HemanthEnuguri/Dashboards/assets/127071265/82032117-3ab5-469e-80d1-b891fd265beb)
