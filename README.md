@@ -1,4 +1,4 @@
-Before working on these datasets I have merged different datasets,cleaned them extensively and checked for any duplicates anad missing values using SQL and Excel.
+Before working on these datasets I have merged different datasets,cleaned them extensively and checked for any duplicates anad missing values using # SQL and Excel.
 # Dashboards
 Here you can find all my work. I will try to give brief description about all my dashboards over here.
 
